@@ -1,6 +1,11 @@
 #include <iostream>
+#include "source.h" 
 using namespace std;
-#include "source.h"
-void napis() {
-    cout << "hello";
-}
+
+// void napis(){
+//     char n;
+//     cout<<"wpisz napis";
+//     cin>>n;
+//     cout<<n;
+// }
+
